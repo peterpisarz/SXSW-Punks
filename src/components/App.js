@@ -172,7 +172,7 @@ function App() {
 					<Row className='header my-3 p-3 mb-0 pb-0'>
 						<Col xs={12} md={12} lg={8} xxl={8}>
 							<h1>SXSW Punks!</h1>
-							<p className='sub-header'>Availble on 04 / 10 / 22</p>
+							<p className='sub-header'>Availble on 05 / 31 / 22</p>
 						</Col>
 						<Col className='flex social-icons'>
 							<a
