@@ -176,7 +176,7 @@ function App() {
 						</Col>
 						<Col className='flex social-icons'>
 							<a
-								href="https://twitter.com/DappUniversity"
+								href="https://twitter.com/peterhollyatx"
 								target='_blank'
 								className='circle flex button'>
 								<img src={twitter} alt="Twitter" />
