@@ -5,12 +5,11 @@ module.exports = {
 	networks: {
 		development: {
 			host: "127.0.0.1",
-			port: 6969,
+			port: 8545,
 			network_id: "*" // Match any network id
 		},
 
 		rinkeby: {
-			networkCheckTimeout: 10000,
 			provider: function () {
 				return new HDWalletProvider(
 					[process.env.DEPLOYER_PRIVATE_KEY],

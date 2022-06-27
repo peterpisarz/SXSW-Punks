@@ -199,7 +199,7 @@ function App() {
 					<Row className='flex m-3'>
 						<Col md={5} lg={4} xl={5} xxl={4} className='text-center'>
 							<img
-								src={`https://gateway.pinata.cloud/ipfs/QmXojk54V9XWiQ8u2jEtE1jMfwjVXfSJ38qiebP3kHKoLr/${counter}.png`}
+								src={`https://gateway.pinata.cloud/ipfs/QmewziS5anJCcjTDePKPJHfWD9xFbrNaZnD3bHVDqTqTxG/${counter}.png`}
 								alt="Crypto Punk"
 								className='showcase'
 							/>
